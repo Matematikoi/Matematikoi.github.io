@@ -1,24 +1,12 @@
-<div id="table-of-contents" role="doc-toc">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#org6ae957e">1. Limitations</a></li>
-<li><a href="#org3ca6293">2. Good things</a></li>
-<li><a href="#org65d67c3">3. Comparisons with other papers</a>
-<ul>
-<li><a href="#orge080f2d">3.1. Flow loss</a></li>
-<li><a href="#orgffd6193">3.2. Robust Query Driven Cardinality</a></li>
-<li><a href="#org7dff6e6">3.3. NN-based Transformation of Any SQL Cardinality</a></li>
-<li><a href="#orgd2f07b4">3.4. postCENN</a></li>
-<li><a href="#org571a45f">3.5. Learning State Representations for Query Optimization</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<div id="outline-container-org6ae957e" class="outline-2">
-<h2 id="org6ae957e"><span class="section-number-2">1.</span> Limitations</h2>
-<div class="outline-text-2" id="text-1">
+---
+layout: post
+title: "Blogging with Emacs, Org, and GitHub Pages"
+permalink: /:title/
+tags: [emacs]
+---
+<div id="outline-container-orgf08b5ec" class="outline-2">
+<h2 id="orgf08b5ec">Limitations</h2>
+<div class="outline-text-2" id="text-orgf08b5ec">
 <ol class="org-ol">
 <li>Only work for a small amount of joins.
 <ol class="org-ol">
@@ -37,9 +25,9 @@
 </ol>
 </div>
 </div>
-<div id="outline-container-org3ca6293" class="outline-2">
-<h2 id="org3ca6293"><span class="section-number-2">2.</span> Good things</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-orgbb161ee" class="outline-2">
+<h2 id="orgbb161ee">Good things</h2>
+<div class="outline-text-2" id="text-orgbb161ee">
 <ol class="org-ol">
 <li>One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.</li>
 <li>There must be a FK between tables. This must be the join condition.</li>
@@ -47,13 +35,13 @@
 </ol>
 </div>
 </div>
-<div id="outline-container-org65d67c3" class="outline-2">
-<h2 id="org65d67c3"><span class="section-number-2">3.</span> Comparisons with other papers</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-org4734734" class="outline-2">
+<h2 id="org4734734">Comparisons with other papers</h2>
+<div class="outline-text-2" id="text-org4734734">
 </div>
-<div id="outline-container-orge080f2d" class="outline-3">
-<h3 id="orge080f2d"><span class="section-number-3">3.1.</span> Flow loss</h3>
-<div class="outline-text-3" id="text-3-1">
+<div id="outline-container-org6d9ab04" class="outline-3">
+<h3 id="org6d9ab04">Flow loss</h3>
+<div class="outline-text-3" id="text-org6d9ab04">
 <p>
 Flow loss focuses on a loss function that try to make better query plans. This is only a change in the loss function and the architecture is the same. The speed up in query time is x1.5.
 </p>
@@ -63,9 +51,9 @@ This is not aplicable since the dataset is different.
 </p>
 </div>
 </div>
-<div id="outline-container-orgffd6193" class="outline-3">
-<h3 id="orgffd6193"><span class="section-number-3">3.2.</span> Robust Query Driven Cardinality</h3>
-<div class="outline-text-3" id="text-3-2">
+<div id="outline-container-org87d0670" class="outline-3">
+<h3 id="org87d0670">Robust Query Driven Cardinality</h3>
+<div class="outline-text-3" id="text-org87d0670">
 <p>
 Uses masking of query features to make it more robust. This approach helps the model adapt to unseen queries and data updates. Additionally, it uses join bitmaps and sideways information passing to maintain consistency in capturing correlations across different joins.
 </p>
@@ -75,9 +63,9 @@ It uses the same underlying architecture.
 </p>
 </div>
 </div>
-<div id="outline-container-org7dff6e6" class="outline-3">
-<h3 id="org7dff6e6"><span class="section-number-3">3.3.</span> NN-based Transformation of Any SQL Cardinality</h3>
-<div class="outline-text-3" id="text-3-3">
+<div id="outline-container-org0e1fa42" class="outline-3">
+<h3 id="org0e1fa42">NN-based Transformation of Any SQL Cardinality</h3>
+<div class="outline-text-3" id="text-org0e1fa42">
 <p>
 We add support for DISTINCT, AND, OR and NOT. There is no support for EXISTS. But understandably so.
 This paper has the same underlying architecture.
@@ -159,17 +147,17 @@ Hence, the vector size is \(T + 4 * C + O + 1\), denoted as \(L\).
 </table>
 </div>
 </div>
-<div id="outline-container-orgd2f07b4" class="outline-3">
-<h3 id="orgd2f07b4"><span class="section-number-3">3.4.</span> postCENN</h3>
-<div class="outline-text-3" id="text-3-4">
+<div id="outline-container-org69490a3" class="outline-3">
+<h3 id="org69490a3">postCENN</h3>
+<div class="outline-text-3" id="text-org69490a3">
 <p>
 They are doing the same thing but with a nice interface.
 </p>
 </div>
 </div>
-<div id="outline-container-org571a45f" class="outline-3">
-<h3 id="org571a45f"><span class="section-number-3">3.5.</span> Learning State Representations for Query Optimization</h3>
-<div class="outline-text-3" id="text-3-5">
+<div id="outline-container-org174855f" class="outline-3">
+<h3 id="org174855f">Learning State Representations for Query Optimization</h3>
+<div class="outline-text-3" id="text-org174855f">
 <p>
 A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values.
 </p>
