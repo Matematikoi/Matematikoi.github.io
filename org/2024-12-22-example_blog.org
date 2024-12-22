@@ -15,7 +15,7 @@ tags: [test, another test, databases]
 * Limitations
 1. Only work for a small amount of joins.
    1. The architecture only allows for two joins.
-   2. The error increases dramatically with consecutive joins
+   2. The error increases dramatically with consecutive joins.
 2. Working with sampling is good until you hit 0 and you are infinitely wrong.
    1. Consecutive sampling for joins will be 0.
 3. Only simple predicates (you can't use LIKE or something like that.)
