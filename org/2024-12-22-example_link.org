@@ -1,0 +1,15 @@
+#+title: Learned Cardinalities
+#+author: Gabriel Lozano
+#+startup: logdrawer
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Example link"
+permalink: /:title/
+tags: [test, another test, databases]
+---
+#+END_EXPORT
+* This is an example of linking between posts with orgROAM
+This is a link to a [[https://matematikoi.github.io/example/][url]]..

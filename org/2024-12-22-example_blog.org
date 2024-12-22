@@ -1,0 +1,72 @@
+#+title: Learned Cardinalities
+#+author: Gabriel Lozano
+#+startup: logdrawer
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Example blog"
+permalink: /:title/
+tags: [test, another test, databases]
+---
+#+END_EXPORT
+
+* Limitations
+1. Only work for a small amount of joins.
+   1. The architecture only allows for two joins.
+   2. The error increases dramatically with consecutive joins
+2. Working with sampling is good until you hit 0 and you are infinitely wrong.
+   1. Consecutive sampling for joins will be 0.
+3. Only simple predicates (you can't use LIKE or something like that.)
+   1. Only uses AND to connect queries
+4. Most of the testing is done with the table Title. Which may lead to think that it only really learned the joins of one table.
+* Good things
+1. One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.
+2. There must be a FK between tables. This must be the join condition.
+3. Sampling tends to be good (see cons)
+* Comparisons with other papers
+** Flow loss
+Flow loss focuses on a loss function that try to make better query plans. This is only a change in the loss function and the architecture is the same. The speed up in query time is x1.5.
+
+This is not aplicable since the dataset is different.
+** Robust Query Driven Cardinality
+Uses masking of query features to make it more robust. This approach helps the model adapt to unseen queries and data updates. Additionally, it uses join bitmaps and sideways information passing to maintain consistency in capturing correlations across different joins.
+
+It uses the same underlying architecture.
+** NN-based Transformation of Any SQL Cardinality
+We add support for DISTINCT, AND, OR and NOT. There is no support for EXISTS. But understandably so.
+This paper has the same underlying architecture
+
+We represent each query *Q* as a collection of four sets $(A, T, J, P)$.
+
+- *A*: set of the attributes in *Q*'s SELECT clause.
+- *T*: set of the tables in *Q*'s FROM clause.
+- *J*: set of the join clauses in *Q*'s WHERE clause.
+- *P*: set of the columns predicates in *Q*'s WHERE clause.
+
+Each element in each of the 4 sets is then represented with a vector. Together these vectors form the set $V$ of vectors. To facilitate learning, all the vectors in $V$ are of the same dimension and the same format as depicted in Table 1, where:
+
+- $#T$: the number of tables in the whole database.
+- $#C$: the number of columns in the whole database.
+- $#O$: the number of all possible operators in predicates.
+
+Hence, the vector size is $T + 4 * C + O + 1$, denoted as $L$.
+
+| Type      | Att.      | Table     | Join                 | Column Predicate            |
+|-----------+-----------+-----------+----------------------+-----------------------------|
+| Segment   | A-seg     | T-seg     | J1-seg, J2-seg       | C-seg, O-seg, V-seg         |
+| Seg. size | C         | T         | C, C                 | C, O, 1                     |
+| Feat.     | 1hot vec. | 1hot vec. | 1hot vec., 1hot vec. | 1hot vec., 1hot vec., norm. |
+** postCENN
+They are doing the same thing but with a nice interface
+$$ \frac{1}{2} = x^2 + y_i$$
+this is an example of latex inline $x = \frac{1}{2}$
+
+this is an example of an images
+
+#+DOWNLOADED: screenshot @ 2024-12-22 17:10:37
+[[file:images/2024-12-22_17-10-37_screenshot.png]]
+
+** Learning State Representations for Query Optimization
+A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values.

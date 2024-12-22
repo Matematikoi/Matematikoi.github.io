@@ -4,13 +4,13 @@ title: "Example blog"
 permalink: /:title/
 tags: [test, another test, databases]
 ---
-<div id="outline-container-orgf08b5ec" class="outline-2">
-<h2 id="orgf08b5ec">Limitations</h2>
-<div class="outline-text-2" id="text-orgf08b5ec">
+<div id="outline-container-org8850c5e" class="outline-2">
+<h2 id="org8850c5e">Limitations</h2>
+<div class="outline-text-2" id="text-org8850c5e">
 <ol class="org-ol">
 <li>Only work for a small amount of joins.
 <ol class="org-ol">
-<li>The architecture only allows for two joins</li>
+<li>The architecture only allows for two joins.</li>
 <li>The error increases dramatically with consecutive joins</li>
 </ol></li>
 <li>Working with sampling is good until you hit 0 and you are infinitely wrong.
@@ -25,9 +25,9 @@ tags: [test, another test, databases]
 </ol>
 </div>
 </div>
-<div id="outline-container-orgbb161ee" class="outline-2">
-<h2 id="orgbb161ee">Good things</h2>
-<div class="outline-text-2" id="text-orgbb161ee">
+<div id="outline-container-org88babd0" class="outline-2">
+<h2 id="org88babd0">Good things</h2>
+<div class="outline-text-2" id="text-org88babd0">
 <ol class="org-ol">
 <li>One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.</li>
 <li>There must be a FK between tables. This must be the join condition.</li>
@@ -35,13 +35,13 @@ tags: [test, another test, databases]
 </ol>
 </div>
 </div>
-<div id="outline-container-org4734734" class="outline-2">
-<h2 id="org4734734">Comparisons with other papers</h2>
-<div class="outline-text-2" id="text-org4734734">
+<div id="outline-container-org24eb4fc" class="outline-2">
+<h2 id="org24eb4fc">Comparisons with other papers</h2>
+<div class="outline-text-2" id="text-org24eb4fc">
 </div>
-<div id="outline-container-org6d9ab04" class="outline-3">
-<h3 id="org6d9ab04">Flow loss</h3>
-<div class="outline-text-3" id="text-org6d9ab04">
+<div id="outline-container-org6638c5b" class="outline-3">
+<h3 id="org6638c5b">Flow loss</h3>
+<div class="outline-text-3" id="text-org6638c5b">
 <p>
 Flow loss focuses on a loss function that try to make better query plans. This is only a change in the loss function and the architecture is the same. The speed up in query time is x1.5.
 </p>
@@ -51,9 +51,9 @@ This is not aplicable since the dataset is different.
 </p>
 </div>
 </div>
-<div id="outline-container-org87d0670" class="outline-3">
-<h3 id="org87d0670">Robust Query Driven Cardinality</h3>
-<div class="outline-text-3" id="text-org87d0670">
+<div id="outline-container-org0a7f827" class="outline-3">
+<h3 id="org0a7f827">Robust Query Driven Cardinality</h3>
+<div class="outline-text-3" id="text-org0a7f827">
 <p>
 Uses masking of query features to make it more robust. This approach helps the model adapt to unseen queries and data updates. Additionally, it uses join bitmaps and sideways information passing to maintain consistency in capturing correlations across different joins.
 </p>
@@ -63,9 +63,9 @@ It uses the same underlying architecture.
 </p>
 </div>
 </div>
-<div id="outline-container-org0e1fa42" class="outline-3">
-<h3 id="org0e1fa42">NN-based Transformation of Any SQL Cardinality</h3>
-<div class="outline-text-3" id="text-org0e1fa42">
+<div id="outline-container-org63f191c" class="outline-3">
+<h3 id="org63f191c">NN-based Transformation of Any SQL Cardinality</h3>
+<div class="outline-text-3" id="text-org63f191c">
 <p>
 We add support for DISTINCT, AND, OR and NOT. There is no support for EXISTS. But understandably so.
 This paper has the same underlying architecture
@@ -147,11 +147,11 @@ Hence, the vector size is \(T + 4 * C + O + 1\), denoted as \(L\).
 </table>
 </div>
 </div>
-<div id="outline-container-org69490a3" class="outline-3">
-<h3 id="org69490a3">postCENN</h3>
-<div class="outline-text-3" id="text-org69490a3">
+<div id="outline-container-org1d1a858" class="outline-3">
+<h3 id="org1d1a858">postCENN</h3>
+<div class="outline-text-3" id="text-org1d1a858">
 <p>
-They are doing the same thing but with a nice interface.
+They are doing the same thing but with a nice interface
 \[ \frac{1}{2} = x^2 + y_i\]
 this is an example of latex inline \(x = \frac{1}{2}\)
 </p>
@@ -159,14 +159,19 @@ this is an example of latex inline \(x = \frac{1}{2}\)
 <p>
 this is an example of an images
 </p>
-<p>
-<a href="images/2024-12-21_23-32-35_screenshot.png">images/2024-12-21_23-32-35_screenshot.png</a>
+
+
+<div id="org4399132" class="figure">
+<p><div class="figure">
+<p><img src="{{ '../org/images/images/2024-12-22_17-10-37_screenshot.png' | relative_url }}" alt="2024-12-22_17-10-37_screenshot.png" /></p>
+</div>
 </p>
 </div>
 </div>
-<div id="outline-container-org174855f" class="outline-3">
-<h3 id="org174855f">Learning State Representations for Query Optimization</h3>
-<div class="outline-text-3" id="text-org174855f">
+</div>
+<div id="outline-container-org65d2c46" class="outline-3">
+<h3 id="org65d2c46">Learning State Representations for Query Optimization</h3>
+<div class="outline-text-3" id="text-org65d2c46">
 <p>
 A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values.
 </p>
