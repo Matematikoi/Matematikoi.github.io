@@ -4,9 +4,9 @@ title: "Example blog"
 permalink: /:title/
 tags: [test, another test, databases]
 ---
-<div id="outline-container-org8850c5e" class="outline-2">
-<h2 id="org8850c5e">Limitations</h2>
-<div class="outline-text-2" id="text-org8850c5e">
+<div id="outline-container-org4c50977" class="outline-2">
+<h2 id="org4c50977">Limitations</h2>
+<div class="outline-text-2" id="text-org4c50977">
 <ol class="org-ol">
 <li>Only work for a small amount of joins.
 <ol class="org-ol">
@@ -25,9 +25,9 @@ tags: [test, another test, databases]
 </ol>
 </div>
 </div>
-<div id="outline-container-org88babd0" class="outline-2">
-<h2 id="org88babd0">Good things</h2>
-<div class="outline-text-2" id="text-org88babd0">
+<div id="outline-container-org8d4777a" class="outline-2">
+<h2 id="org8d4777a">Good things</h2>
+<div class="outline-text-2" id="text-org8d4777a">
 <ol class="org-ol">
 <li>One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.</li>
 <li>There must be a FK between tables. This must be the join condition.</li>
@@ -35,13 +35,13 @@ tags: [test, another test, databases]
 </ol>
 </div>
 </div>
-<div id="outline-container-org24eb4fc" class="outline-2">
-<h2 id="org24eb4fc">Comparisons with other papers</h2>
-<div class="outline-text-2" id="text-org24eb4fc">
+<div id="outline-container-orgfb9d6e0" class="outline-2">
+<h2 id="orgfb9d6e0">Comparisons with other papers</h2>
+<div class="outline-text-2" id="text-orgfb9d6e0">
 </div>
-<div id="outline-container-org6638c5b" class="outline-3">
-<h3 id="org6638c5b">Flow loss</h3>
-<div class="outline-text-3" id="text-org6638c5b">
+<div id="outline-container-orgf893877" class="outline-3">
+<h3 id="orgf893877">Flow loss</h3>
+<div class="outline-text-3" id="text-orgf893877">
 <p>
 Flow loss focuses on a loss function that try to make better query plans. This is only a change in the loss function and the architecture is the same. The speed up in query time is x1.5.
 </p>
@@ -51,9 +51,9 @@ This is not aplicable since the dataset is different.
 </p>
 </div>
 </div>
-<div id="outline-container-org0a7f827" class="outline-3">
-<h3 id="org0a7f827">Robust Query Driven Cardinality</h3>
-<div class="outline-text-3" id="text-org0a7f827">
+<div id="outline-container-org7223f8c" class="outline-3">
+<h3 id="org7223f8c">Robust Query Driven Cardinality</h3>
+<div class="outline-text-3" id="text-org7223f8c">
 <p>
 Uses masking of query features to make it more robust. This approach helps the model adapt to unseen queries and data updates. Additionally, it uses join bitmaps and sideways information passing to maintain consistency in capturing correlations across different joins.
 </p>
@@ -63,9 +63,9 @@ It uses the same underlying architecture.
 </p>
 </div>
 </div>
-<div id="outline-container-org63f191c" class="outline-3">
-<h3 id="org63f191c">NN-based Transformation of Any SQL Cardinality</h3>
-<div class="outline-text-3" id="text-org63f191c">
+<div id="outline-container-org227c27b" class="outline-3">
+<h3 id="org227c27b">NN-based Transformation of Any SQL Cardinality</h3>
+<div class="outline-text-3" id="text-org227c27b">
 <p>
 We add support for DISTINCT, AND, OR and NOT. There is no support for EXISTS. But understandably so.
 This paper has the same underlying architecture
@@ -147,9 +147,9 @@ Hence, the vector size is \(T + 4 * C + O + 1\), denoted as \(L\).
 </table>
 </div>
 </div>
-<div id="outline-container-org1d1a858" class="outline-3">
-<h3 id="org1d1a858">postCENN</h3>
-<div class="outline-text-3" id="text-org1d1a858">
+<div id="outline-container-org757372f" class="outline-3">
+<h3 id="org757372f">postCENN</h3>
+<div class="outline-text-3" id="text-org757372f">
 <p>
 They are doing the same thing but with a nice interface
 \[ \frac{1}{2} = x^2 + y_i\]
@@ -161,7 +161,7 @@ this is an example of an images
 </p>
 
 
-<div id="orgeec3d6d" class="figure">
+<div id="org905af08" class="figure">
 <p><div class="figure">
 <p><img src="{{ '../org/images/2024-12-22_17-10-37_screenshot.png' | relative_url }}" alt="2024-12-22_17-10-37_screenshot.png" /></p>
 </div>
@@ -169,9 +169,9 @@ this is an example of an images
 </div>
 </div>
 </div>
-<div id="outline-container-org65d2c46" class="outline-3">
-<h3 id="org65d2c46">Learning State Representations for Query Optimization</h3>
-<div class="outline-text-3" id="text-org65d2c46">
+<div id="outline-container-org3b323db" class="outline-3">
+<h3 id="org3b323db">Learning State Representations for Query Optimization</h3>
+<div class="outline-text-3" id="text-org3b323db">
 <p>
 A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values.
 </p>
