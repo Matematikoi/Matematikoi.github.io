@@ -69,4 +69,4 @@ this is an example of an images
 [[file:images/2024-12-22_17-10-37_screenshot.png]]
 
 ** Learning State Representations for Query Optimization
-A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values.
+A neural network, called NNST, is used to learn a state transition function that updates the state representation as query operations are applied. Another function, NNObserved, maps this representation to predict cardinality values. s..

@@ -12,4 +12,12 @@ tags: [test, another test, databases]
 ---
 #+END_EXPORT
 * This is an example of linking between posts with orgROAM
-This is a link to a [[https://matematikoi.github.io/example/][url]]..
+This is a link to a [[https://matematikoi.github.io/example_blog/][url]]
+* This is using orgROAM
+This is using [[file:2024-12-22-example_blog.org::*Learning State Representations for Query Optimization][orgroam]]
+* Foo
+This[fn:1] is bar [[*This is an example of linking between posts with orgROAM][This is an example of linking between posts with orgROAM]]
+
+* Footnotes
+
+[fn:1] Random footnote
