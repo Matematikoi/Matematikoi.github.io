@@ -2,7 +2,7 @@
 #+author: Gabriel Lozano
 #+startup: logdrawer
 #+startup: preview
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:t num:1
 #+BEGIN_EXPORT html
 ---
 layout: post
@@ -22,9 +22,9 @@ tags: [test, another test, databases]
    1. Only uses AND to connect queries
 4. Most of the testing is done with the table Title. Which may lead to think that it only really learned the joins of one table.
 * Good things
-1. One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.
-2. There must be a FK between tables. This must be the join condition.
-3. Sampling tends to be good (see cons)
+a. One big problem is the correlations between tables. This breaks them and are hard to explain, this is where ML comes in handy.
+b. There must be a FK between tables. This must be the join condition.
+c. Sampling tends to be good (see cons)
 * Comparisons with other papers
 ** Flow loss
 Flow loss focuses on a loss function that try to make better query plans. This is only a change in the loss function and the architecture is the same. The speed up in query time is x1.5.
