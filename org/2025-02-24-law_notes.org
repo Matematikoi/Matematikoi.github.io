@@ -1,0 +1,790 @@
+#+title: Law Notes - 2025
+#+author: Gabriel Lozano
+#+startup: logdrawer
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Law class notes 2025"
+permalink: /:title/
+tags: [notes, bdma]
+---
+#+END_EXPORT
+
+
+* Law and the Rule of Law
+** Law
+The content (The Rules)
+*Legal rules*: The building blocks of law.
+*Moral rules*: Inspire and shape laws. (lying vs perjury)
+*Natural law*: Guides laws toward justice and fairness. (freedom)
+
+*** Legal rule
+Created and enforced by the government.
+Violating it results in legal punishment (fines, prison, etc.).
+*Example:* Paying taxes is mandatory by law. If you don’t, you face penalties.
+**** Public Law
+State-centered (e.g., government, public services)
+1. *Constitutional law*: Rules about the organization of the government, citizens' rights, and the functioning of institutions.
+2. *Administrative law*: Rules about how public services and government agencies operate
+3. *Internation public law*: Rules governing relationships between countries and international organizations.
+**** Private Law
+Individual-centered (e.g., contracts, family, labor).
+1. *Internation law*: Resolving disputes between companies.
+2. *Civil*: Marriages, will and contracts
+3. *Commercial*: Business and commerce
+4. *Labor*: Employer-employee relationships.
+**** Mixed Laws
+Combines public and private aspects (e.g., criminal trials, court procedures).
+1. *Procedural Law*: Rules about how courts operate and how legal cases are conducted.
+2. *Criminal Law*: Punishes offenses against society but also affects individual rights
+*** Moral Rule
+Based on personal or societal beliefs about right and wrong.
+Not legally enforceable but may lead to social consequences (shame, exclusion).
+*Example:* Helping an elderly person cross the street is a moral act, but not required by law
+*** Natural Law
+Based on universal principles believed to be inherent in human nature.
+Often linked to justice, fairness, and human rights.
+*Example:* The right to life and freedom is considered a natural law, existing regardless of any country's legislation
+
+** Rule of Law
+The principle that law is applied equally and justly to maintain order and protect rights.
+Is a political and legal ideal that all people and institutions within a country, state, or community are accountable to the same laws, including lawmakers, government officials, and judges.
+
+1. *Targets everyone*: or specific group.
+2. *Mandatory* Legal rules must be followed
+3. *Validity* A legal rule is valid only if it comes from a legitimate authority
+4. *Sanction* Breaking it leads to punishment.
+*** Sources in France
+**** Old Tradition (Pre - french revolution)
+*North*: Germanic customs → Local traditions (common law)
+*South*: Roman law → Codified rules (civil law)
+*Royal Authority*: Ordinances and edicts → Centralized legal system
+*Courts*: Parliamentary decisions → Case law and precedents
+*Church*: Canon law → Family and moral laws
+**** Contemporary
+1. *International sources*: Treaties.
+2. *European union*: Makes the french make some laws.
+3. National
+   1. *Parliaments*: Votes for laws.
+      1. Fundamental Principles: social security, labor and education.
+      2. *Personal status*:  Laws about citizenship, marriage, and civil rights. Example: Marriage laws and rules for adopting children.
+   2. Executive branch:
+      1. Rules that are not subordinate to a law: Road traffic rules or administrative procedures. Environmental Standards.
+      2. Exceptions: The government can issue laws temporarily through ordinances, but Parliament must approve them later.
+**** Drafting of a Law
+The initiative is that of the Prime Minister and of the members of Parliament.
+1. Verification of the Law's compliance. A council makes sure that the law is constitutional.
+2. After the law is promulgated it can be challenged for being unconstitutional.
+
+Then there is laws being no longer *applied*
+1. Laws don’t expire automatically.
+2. They must be repealed by a new law (express) or through contradiction (tacit).
+3. Laws remain valid indefinitely unless formally repealed (no abeyance).
+**** Case Law or Judicial Preference
+*Definition*: Case law is the body of legal decisions made by courts. It becomes a source of law through judicial rulings, especially when laws are unclear or incomplete.
+
+When does it become a *source of law*?
+1. When the Law is Unclear or Ambiguous
+2. When a New Situation Occurs (No Law Exists): early cases of road accidents.
+
+Finally this is true because the judge *must rule* in every case. He can't create general laws like parlament, but rules over individual cases.
+**** Customs
+In business, it is customary to provide a grace period for payment. Courts may enforce this even if the contract does not mention it.
+*** Applicability
+**** Space
+*Principles*: French law applies throughout the entire country to everyone living in the national territory
+*One exception*: local legal systems survive in Alsace Lorraine and in some territories outside continental France
+**** Time
+*No retroactive*: Laws apply from the moment they are created, not to prior cases. However it may apply to *present* cases.
+*EXCEPTION* More lenient criminal laws, laws clarify the meaning of a previous law without changing it ( taxes )
+* Subjective Rights
+** Opposed to objective rights
+*Objective Rights*: The law itself—the set of rules that everyone must follow.
+*Subjective Rights*: Individual rights derived from those laws—what a person can demand or claim based on the law.
+** Categories
+*** Patrimonial rights (Economic)
+“Patrimony” (property): all the pecuniary rights and obligations vested in an individual
+**** Definition
+Patrimonial rights are property or economic rights that can be:
+1. Transferred (sold, gifted, or inherited)
+2. Seized (by creditors for debts)
+3. Extinguished (expire, be destroyed, or abandoned)
+**** Rights in things as subject /rem/
+Principal rights
+1. *Usus*: The right to use the thing.
+2. *Fructus*: The right to make money out of the thing itself.
+3. *Abusus*: Right to destroy.
+Rights in /rem/ accessories as the pledge and mortgage.
+**** Intellectual rights
+Intellectual rights are based on immaterial rights.
+1. Intellectual Property
+   1. Literary and artistic property
+   2. Industrial Property
+**** Right of clientele
+This refers to the economic value of a business's reputation and customer base.
+Example: A restaurant’s name and loyal customers are assets that can be sold when transferring the business.
+*** Extra Patrimonial rights
+**** Definition
+A. *Non-Marketable*: Cannot be sold, transferred, or inherited. Example: You cannot sell your right to privacy or image rights.
+B. *Non-Bequeathable*: They do not pass to heirs after death. Example: Parental authority ends upon the parent’s death.
+C. *Cannot Be Seized*: They are not part of financial assets and cannot be taken by creditors. Example: A creditor cannot seize your reputation or privacy rights.
+D. *Imprescriptible*: They have no expiration date. They cannot be lost over time. Example: The right to your name lasts forever.
+E. *Inalienable*: They are inherent to the person and cannot be given away or renounced. Example: You cannot legally give up your right to privacy forever.
+**** Family rights
+*Parental Rights*: The right and duty to care for and educate one’s child.
+*Guardianship*: The legal authority to manage the affairs of a minor or incapacitated person.
+Example: Custody rights after a divorce.
+**** Rights of Individuals
+These rights protect the dignity and identity of individuals:
+
+1. *Right to One’s Name*: Protection against unauthorized use of your name. Example: A company cannot use your name for advertising without permission.
+1. *Honor Rights*: Protection of reputation and dignity, enforceable through civil or criminal law (e.g., defamation laws).
+1. *Image Rights*: Control over the use of your likeness or photos. Example: Publishing your photo without consent can lead to legal action.
+1. *Right to Privacy*: Protection from public exposure of personal life. Example: Publishing personal information without consent is a violation.
+1. *Moral Rights of Authors*: Protection of an author’s connection to their work, including the right to prevent modification. Example: An author can stop a publisher from altering their book without permission.
+** Sources of Subjective Rights
+*** Legal Acts
+A legal act is a voluntary action intended to create, modify, transfer, or extinguish rights and obligations.
+
+1. *Acts of Disposal (Actes de disposition)*: Meaning: These acts transfer or extinguish rights permanently. Examples: Selling a house, donating money, or transferring property.
+2. *Acts of Administration (Actes d’administration)*: Meaning: Acts that manage or maintain property without changing ownership. Examples: Renting out property or renewing an insurance policy.
+3. *Conservative Acts (Actes conservatoires)*: Meaning: Acts taken to protect or preserve rights or property. Examples: Filing a lawsuit to protect ownership or repairing a damaged property to prevent further loss.
+*** Legal Facts
+A legal fact is an event or situation that produces legal consequences, even if it happens without human intent.
+*Natural Events*: A flood destroys a property → Leads to an insurance claim.
+*Accidents*: A car crash → Creates liability for damages.
+*Possession Over Time (Usucapion)*: Gaining ownership of property through long-term possession without a formal sale.
+** Proof of subjective rights
+The burden of proof lies with the claimant.
+*Roles in the Trial:*
+1. Demander (Plaintiff): The person making the claim or accusation.
+1. Defender (Defendant): The person defending against the claim.
+
+*The Back-and-Forth Movement of Proof:*
+1. The plaintiff provides proof first.
+2. The defendant can refute it or provide counter-evidence.
+3. The process continues until the judge decides based on the evidence presented.
+
+The judge stays neutral and only evaluates the proof provided. The judge does not search for evidence independently.
+*** Written evidence
+| *Type of Document*    | *Authority*                        | *Legal Value*                                       | *Conditions*                                             |
+|-----------------------+------------------------------------+-----------------------------------------------------+----------------------------------------------------------|
+| *Authentic Act*       | Public Officer (e.g., Notary)      | *Highest probative value*; valid until proven false | Signed by officer, original kept as “minute”             |
+| *Private Deed*        | Parties only                       | Binding but weaker than an authentic act            | Signed by all parties, as many copies as parties         |
+| *Electronic Document* | Certified by a trusted third party | Equal to paper documents under law                  | Reliable signature, secure storage, certified encryption |
+
+*Electronic Originals*: Valid if created and stored securely with electronic signatures.
+*Copies*: Have the same legal force as the original if they are identical, complete, and durable.
+*** Other sources of Evidence
+
+| *Type of Evidence*     | *Definition*                                     | *Legal Value*                                                      |
+|------------------------+--------------------------------------------------+--------------------------------------------------------------------|
+| *Witness Evidence*     | Statements from people who observed the facts    | *Judge decides* weight (opposite of rumors)                        |
+| *Presumption of Facts* | Logical conclusions from established facts       | Must be *serious, precise, corroborative*                          |
+| *Admission*            | Party acknowledges a fact against their interest | *Judicial:* Binding and final  *Extra-judicial:* Discretionary     |
+| *Oath*                 | Formal declaration of truth                      | *Decisive Oath:* Binding and final  *Additional Oath:* Non-binding |
+| *Documentary Evidence* | Written proof (e.g., contracts, invoices)        | *Primary* proof for legal acts                                     |
+| *Prima Facie Evidence* | Initial proof that shifts burden to other party  | Valid unless disproved                                             |
+* Legal System
+** Dual Jurisdiction
+The French legal system is divided into two separate court systems, each handling different types of cases:
+*** Administrative Jurisdiction
+Handles disputes involving the State, public authorities, or public services.
+*Examples*: Public contract disputes, tax disputes, or decisions made by government agencies.
+*Main Court*: Conseil d’État (Council of State) – France’s highest administrative court.
+*** Judicial Jurisdiction
+Handles disputes between individuals or private entities.
+Covers civil, commercial, and criminal cases.
+*Main Court*: Cour de Cassation – France’s highest court for civil and criminal cases.
+*** Court of Jurisdictional Conflict
+*Purpose*: Resolves conflicts over which court system (administrative or judicial) should hear a case.
+*Example*: A dispute involving a public hospital and a patient could raise questions about whether it is a public (administrative) or private (judicial) matter.
+** Double Degree of Jurisdiction (Double Degré de Juridiction):
+*Principle*: Parties can appeal a court’s decision to a higher court, ensuring a second review of the case.
+*Guarantee*: It is a fundamental protection against judicial errors.
+*Exclusion*: Minor cases may be excluded from appeal to speed up justice.
+*Example*: Small claims under €5,000 may not be eligible for appeal.
+* Civil Proceedings
+Civil proceedings deal with disputes between individuals or entities, such as those related to contracts, property, family law, and compensation for damages. Here’s an overview of how these proceedings work under French law.
+** Principles
+*** Transactions
+Definition: A transaction is an agreement between parties to end a dispute without going to court.
+Legal Effect: It has the force of law between the parties once signed.
+Example: Settling a dispute over a contract breach through a negotiated payment instead of a lawsuit.
+*** Judicial Staff
+The judicial staff consists of judges and prosecutors, who play distinct roles in civil proceedings:
+**** Judges (Magistrats du Siège)
+- Their role is to *hear cases and deliver judgments*.
+- Judges are *independent and irremovable*, meaning they *cannot be dismissed* or removed from their cases.
+- Known as *“Siège”* (meaning "bench") because they *sit in court* to decide cases.
+**** Prosecutors (Magistrats du Parquet)
+- Represent the *State (Ministère Public)* in legal proceedings.
+- In civil cases, they may intervene in cases involving the *public interest* (e.g., child protection or family law).
+- They *lead prosecutions* and *cross-examinations* but do not issue judgments.
+- *Key Prosecutors:*
+  - *Procureur de la République:* Local public prosecutor.
+  - *Procureur Général:* Head prosecutor at *Cour d’Appel (Court of Appeal).*
+  - *Procureur Général auprès de la Cour de Cassation:* Head prosecutor at the *highest court (Cour de Cassation).*
+* Contract Law
+** Formation of the contract
+For a contract to be valid it must have
+1. [[*Consent][Consent]] of all parties
+2. Capacity: all parties must have legal ability to enter the contract
+3. A define [[*Conditions for validity of the object][object]]: The contract must involve a spefic and lawful object.
+4. A lawful [[*Problems of the cause][cause]]: The reason or motive behind entering the contract must be legal and moral.
+*** Invitation to Discussion
+Starting point.
+Good Faith Obligations in Negotiations:
+- Informing the other party
+- Respecting a cooling-off period
+- Avoiding delaying tactics
+- Maintaining confidentiality
+*** Offers (pollicitation)
+- *Firm Offer*: Contains all essential elements (e.g., price, object) and is binding.
+- *Public Offer*: Equivalent to an offer to a specific person; first acceptance forms a contract.
+- *Conditional Offer*: May include reservations (e.g., based on the personal qualities (intuitu personae) of the other party).
+- *Offer Expiry (Lapse)*: Ends when:
+  - The offeror dies or becomes bankrupt.
+  - The recipient rejects the offer.
+*** Contracts between absents
+Concerns contracts made when parties are not physically present.
+Theories:
+- *Emission Theory*: Contract is formed when acceptance is sent.
+- *Reception Theory*: Contract is formed when acceptance is received.
+Impact: Affects the place of contract formation and the applicable law
+*** Electronic contracts
+1. Double click rule.
+** Classification
+*** Summary
+| *Classification*          | *Contract Types*                                    | *Examples*                                              |
+|---------------------------+-----------------------------------------------------+---------------------------------------------------------|
+| *By Type*                 | Named, Unnamed                                      | Sale, Lease, Franchise                                  |
+| *By Object*               | Bilateral, Unilateral                               | Sales (bilateral), Donations (unilateral)               |
+| *By Payment Structure*    | Free-of-charge, For Payment (Commutative, Aleatory) | Gift (free), Insurance (aleatory)                       |
+| *By Performance Duration* | Instantaneous, Continuing                           | Cash sale (instantaneous), Lease (continuing)           |
+| *By Duration*             | Fixed-Term, Open-Ended                              | 12-month rental (fixed), Employment (open)              |
+| *By Party Identity*       | Intuitu Personae, Consumer vs. Professional         | Employment (intuitu personae), Consumer loan            |
+| *By Mode of Formation*    | Consensual, Solemn, Real                            | Verbal contract (consensual), Real estate sale (solemn) |
+| *By Negotiation Process*  | Negotiated, Adhesion (Membership)                   | Business agreement (negotiated), Insurance (adhesion)   |
+
+*** Classification by Type of Contract
+*Named Contracts (Contrats Nommés)*: Recognized and regulated by law with specific rules (e.g., sale, lease, deposit, service contracts).
+*Unnamed Contracts (Contrats Innommés)*: Not specifically regulated, often complex or unique contracts (sui generis) based on party agreements. Example: Franchise agreements.
+*** Classification by object
+*Bilateral (Synallagmatic) Contracts*: Create reciprocal obligations for both parties (Art. 1106 C. Civ). Example: Sale contracts (one party delivers the item, the other pays).
+*Unilateral Contracts*: Create obligations for only one party (Art. 1106 C. Civ). Example: A donation.
+*** Classification by Payment Structure
+*Free-of-Charge Contracts (Contrats à Titre Gratuit)*: One party gives something without compensation. Example: Gifts or donations.
+*Contracts for Payment (Contrats à Titre Onéreux)*: Each party provides something of value. Example: Sales or rental contracts.
+*** Classification by Contract Duration
+*Fixed-Term Contracts*: End on a specific date or after a defined event. Example: A one-year lease.
+*Open-Ended (Unlimited) Contracts*: Continue indefinitely until one party terminates with notice. Example: Employment contracts without a set term.
+
+Renewals of Contracts:
+*Express Renewal*: Parties agree explicitly to renew.
+*Tacit Renewal*: The contract continues automatically without express agreement (e.g., leases under Art. 1738 C. Civ).
+*** Classification by Party Indentity or Status
+*Intuitu Personae Contracts*: The identity or qualities of a party are crucial.
+*Example*: Employment contracts or contracts with an artist (personal trust is key).
+
+Mistaken identity (Erreur sur la personne) can lead to contract nullity.
+
+Consumer vs. Professional Contracts:
+*Consumer Contracts*: Governed by consumer protection laws.
+*Professional Contracts*: Between two professionals; less protection but more freedom of contract.
+Special rules apply for unfair terms (clauses abusives) in consumer contracts.
+*** Classification by mode of formation
+*Consensual Contracts* (Contrats Consensuels): Formed by mutual consent alone without formalities (the default rule in French law under Art. 1172 C. Civ).
+Example: A verbal agreement for a sale.
+
+*Solemn Contracts* (Contrats Solennels): Require specific formalities or a written form for validity.
+Example: Marriage contracts or real estate sales.
+
+*Real Contracts* (Contrats Réels): Valid only upon the delivery of an object.
+Example: Loans (Art. 1875 C. Civ), deposits (Art. 1919 C. Civ), pledges (Art. 2071 C. Civ).
+*** Classification by Negotiation Process
+Negotiated Contracts: Terms are discussed and agreed upon by both parties.
+Example: Business agreements or commercial contracts.
+
+Adhesion (Membership) Contracts: Standardized contracts where terms are imposed by one party, typically without negotiation.
+Example: Insurance contracts, phone service agreements.
+** Notions and other classifications
+*** Preliminary Contracts (Avant-Contrats)
+**** Unilateral Promise to Contract (Promesse Unilatérale)
+- One party *grants an option* to the other to decide *within a time frame.*
+- Before acceptance, it’s a *personal right*; after acceptance, it becomes a *contractual right* and can be *enforced by the courts.*
+  *Example:* A *landowner promising to sell land if the buyer accepts before June 30.*
+
+**** Synallagmatic Promise to Contract (Promesse Synallagmatique)
+- Both parties *agree to the sale*, but the contract is *conditional* (e.g., awaiting bank loan approval).
+- According to *Art. 1589 C. Civ*, “The promise of sale is equivalent to a sale” if all terms are agreed.
+
+**** Letters of Intent (Lettres d’intention)
+- Used during negotiations to *express intent* but are often legally *ambiguous*. Courts may consider them binding if they show *clear mutual agreement.*
+
+*** Non-Mandatory (Non-Obligatory) Conventions
+Agreements that do *not create enforceable obligations*, but may still produce *legal effects* under certain conditions:
+
+Acts of Kindness (Actes de Courtoisie)
+- *Social gestures* without the intent to create a contract.
+  *Example:* Helping a neighbor move furniture.
+
+Acts of Accommodation (Actes de Complaisance)
+- Voluntary acts *without obligation*, but courts may grant *compensation* if harm occurs.
+  *Example:* Offering a friend a ride, leading to an accident.
+
+Gentleman’s Agreements
+- Agreements based on *personal honor*, with *no legal obligation*, but courts may recognize them if there is *mutual intent*.
+  *Example:* Business agreements between partners without a written contract.
+
+*** Unilateral Deeds (Actes Unilatéraux)
+- Different from *unilateral contracts*, a *unilateral deed* is created by *one party alone* but may impose obligations on themselves.
+- *Example:* A *public promise of a reward* (e.g., “Whoever returns my lost dog will get €500”).
+- Courts debate their *validity*, but *promises to pay* are *codified* and *enforceable.*
+** Consent
+Consent must be:
+1. *Voluntary*: Without coercion.
+2. *Enlightened*: Fully informed of the contract's terms.
+3. *Clear and Express*: Tacit or explicit acceptance.
+
+It must not have defects on the consent. (VICE)
+1. *Error*: A mistake about the essential terms ( a fake painting )
+2. *Fraud(Dol)*: One party deceives the other.
+3. *Violence*: Physical or moral coercion ( you dad is forcing you )
+
+Not a *vice* but a cause of annulment is the *lesion*
+the lesion does vice the conventions only in some specific contracts or for certain people.
+
+Very related to *ACCEPTANCE* which must be
+1. Enlightened
+2. Pure and simple.
+** Protective legislation of the consumer
+The protective legislation for consumers aims to reinforce their consent, ensure proper information, and grant rights of withdrawal.
+*** Background
+1. *Result of Consumer Society*: With increased mass consumption, consumers are more vulnerable to misleading practices.
+2. *Inefficiency of Traditional Methods*: Traditional contract rules (e.g., vices of consent like error or fraud) were insufficient to protect consumers.
+3. *Solution*: Special consumer protection laws focusing on information transparency and consent protection.
+*** Information obligation
+1. Commercial Advertisement:
+   1. Must be truthful and non deceptive
+   2. False advertisement are punishable by law.
+   3. Only comparative advertising if it is honest and fair.
+2. Information on the product
+   1. Price Labeling.
+   2. Quality labels.
+   3. Product Manuals
+3. Personalized information (duty to advise)
+   1. A bank advisor must explain loan risks based on the client financial profile.
+*** Right of withdrawal and cooling off period
+1. Cool off
+   1. Purpose: to reflect and make an informed decision.
+   2. Applies to Door to door sales, timeshare agreements.
+2. Right of withdrawal
+   1. Consumers can withdraw from a contract without a penalty within a certain period.
+   2. Online shopping, or loan agreements.
+** Object and Cause
+*** Object of the obligation vs object of the contract
+- *Object of the Obligation*: The performance promised (e.g., delivery of goods or payment of money).
+- *Object of the Contract*: The broader purpose or final goal of the agreement (e.g., a sales contract aims to transfer ownership).
+*** Conditions for validity of the object
+1. Existence
+   1. The object must exist now or in the future.
+2. Determined
+   1. The object must be precisely defined or capable of being defined.
+   2. For fungible goods ( grain or oil ): a quantity and a quality must be specified.
+3. Possible : the object must be achievable realistically
+4. Licitness: Licencing of medical services. Or making invalid contracts for drug trafficking.
+*** Cause of the contract
+- The cause is the underlying purpose or reason for the obligation.
+- It is evaluated at two levels:
+  - *Objective (Classical Analysis)*: The immediate purpose (e.g., in a sales contract, the cause for the buyer is to receive the goods, and for the seller, it is to receive payment).
+  - *Subjective (Modern Analysis)*: The personal motive behind the contract, which becomes relevant if it is illicit or immoral.
+
+there is *reciprocity*, meaning that if one party fails to perform, the other is not obligated to perform as well.
+If there is no cause, a false cause, or an illicit cause the contract is *void*
+*** Problems of the cause
+- *Absence of Cause*:
+  - *Example*: Paying for services that are never delivered results in a lack of cause, making the contract void.
+- *False Cause (Cause Fausse)*:
+  - Occurs when the parties mistakenly believe there is a counterpart, but there isn’t.
+  - Often seen in simulated contracts, where a contract is created for fraudulent purposes (e.g., fake loans to hide money transfers).
+- *Illicit Cause (Cause Illicite)*:
+  - The cause is unlawful if it violates public order or morality, even if not illegal on the surface.
+  - *Examples*:
+    - A contract with a bribe as payment.
+    - A contract with an illegal motive, even if the contract itself looks legitimate (e.g., renting a property to run a prostitution ring).
+    - The illicit cause is evaluated based on the “impulsive and determinant motive” (the psychological reason for contracting).
+*** Good Faith
+- Fair dealing between parties.
+- Adaptation of the contract to unforeseen circumstances if needed.
+
+This is linked to the abuse of rights doctrine, where a party misusing their contractual rights can be sanctioned.
+** Contractual Responsibility
+*** Contractual responsibility vs Tort responsibility
+- *Contractual Responsibility*: Arises from a breach of obligations defined in a contract.
+- *Tort Responsibility*: _A fault_, _a damage_ Arises from a breach of a general duty of care, independent of any contract.
+
+*A DAMAGE*:
+- *Certain*: Real and established (e.g., loss of a chance, moral prejudice).
+- *Direct*: Caused directly by the breach.
+- *Personal*: Affects the injured party.
+- *Predictable*: Foreseeable at the time of contract formation.
+- *A Fault*: Failure to perform the obligation, assessed based on the type of obligation:
+
+*FAULT* related to [[*Obligation in contractual law][Obligation in contractual law]]
+- *Obligation of Means*: Requires using all reasonable means to achieve the result.
+- *Obligation of Result*: Requires achieving a specific result, failure implies fault.
+*** Obligation in contractual law
+**** Obligation of result
+- *Definition: The debtor commits to achieving a specific outcome.
+- *Fault: Automatically presumed if the expected result is not achieved.
+  - Examples:
+    - Transport contracts: Delivering a package on time.
+    - Sale contracts: Delivering goods as described.
+
+/Causes of Exemption/:
+- *Force Majeure*: Unforeseeable, irresistible, and external events.
+- *Third-Party Action*: A third party’s actions caused the breach.
+- *Fault of the Victim*: The creditor contributed to their own loss.
+**** Obligation of means
+- *Definition*: The debtor commits to using all reasonable means but does not guarantee the result.
+- *Fault*: Proven only if the debtor failed to use reasonable care.
+  - Examples:
+    - Medical Services: A doctor commits to doing their best but does not guarantee a cure.
+    - Legal Advice: A lawyer commits to using their expertise but cannot guarantee a favorable outcome.
+
+Proving the Fault:
+- Evidentiary Question: The creditor must prove negligence or carelessness.
+- Evaluation of Infringement: The court assesses if the means used were appropriate.
+*** Relativity of Notions – Obligation of Means vs. Result:
+The distinction between means and result obligations is often:
+
+1. Educational: Mainly a teaching tool rather than a strict legal category.
+2. Context-Dependent: In practice, many contracts involve a mix of both obligations.
+3. International Contracts: Less relevant due to differing international standards.
+*** Fault
+*Simple Fault*:
+1. Failure to perform due to negligence or imprudence.
+2. Liability is limited to foreseeable damages at the time of contract formation
+
+*Dolosive Fault*
+- Definition: Intentional failure to perform the obligation.
+- Consequence:
+  - Removes all liability limits: The debtor is responsible for all damages, even if unforeseeable.
+  - The victim can claim compensation beyond predictable losses.
+Example (Chronopost Case, Cass. Com., 9 July 2002): A courier company limited its liability for late delivery, but the court invalidated the limitation because the delay resulted from a dolosive fault.
+
+*Heavy fault*
+- *Definition*: Extremely serious negligence showing total disregard for obligations.
+- Treated similarly to dolosive fault due to its gravity.
+- Evaluated In Abstracto: The court measures behavior against what a reasonable professional would have done.
+*** Exoneration from contractual liability
+*Force Majeure* (Art. 1218 C. Civ):
+- Definition: An event that is:
+  - Irresistible: Cannot be avoided.
+  - Unforeseeable: Could not have been predicted.
+  - External: Beyond the debtor’s control.
+- Contractual Modification: Parties may redefine force majeure clauses in the contract.
+
+*Third-Party Action*:
+If a third party causes the breach, the debtor is not liable unless the third party acted on behalf of the debtor.
+
+*Fault of the Victim*:
+- The debtor’s liability is reduced or eliminated if the creditor’s actions contributed to the loss.
+- Example: If a customer ignores product warnings and is harmed, the seller’s liability may be reduced.
+* Intellectual Property
+** Protected works
+The work must be:
+1. Original
+2. Materialized
+*** Exclusion of ideas
+- Intellectual property **does not protect ideas**, only the **specific expression** of those ideas.
+- The form of intellectual property is unimportant
+  - Protection is based on **materialization** into a concrete work.
+- *The originality lies in the form*
+  - Copyright protects **original expressions**, not ideas themselves.
+- *Identical principle used in patent law*
+  - An idea must be **applied in a novel, useful way** to be patentable.
+- **"Ideas are free to be used" (Dubois)**
+  - Anyone can use an idea if they do not **copy its expression**.
+- **Alternative protections**:
+  - Civil liability (lawsuits for damages).
+  - Unfair competition laws.
+
+*Example:*
+- ❌ A *story idea* about a hero fighting villains → **Not protected**.
+- ✅ A *written book* with unique characters and plot → **Protected**.
+*** Exclusion of technical objects
+- Copyright does not protect technical or functional objects.
+- Why?
+  - Copyright protects *creative* works, not *practical inventions*.
+- *Example* of excluded items:
+  - ❌ A new type of wrench → *Patent required*.
+  - ❌ A mathematical formula → *Not copyrightable*.
+  - ❌ A computer algorithm → *Only the written code is protected*.
+- /Exception/: *Artistic* elements may be protected
+  - ✅ A *designer lamp* may be protected for its *artistic aspects* but **not** its function.
+*** Originality
+/The personal stamp of the author on his/her creation/
+Originality != novelty.
+Duchamp and the urinal
+*** Protection without formalities
+Copyright protection is granted automatically as soon as a work is created, without requiring registration, filing, or any other legal procedure.
+
+1. Copyright applies automatically—no need to register.
+2. Based on creation, not formal approval.
+3. Proof may still be needed in disputes, but formal registration is optional.
+*** Indifference to the genre, form of expression, merit and purpose
+1. *Genre* (type of work)
+2. *Form of expression* (medium or technique used)
+3. *Merit* (artistic or aesthetic value)
+4. *Purpose* (whether the work is for entertainment, education, etc.)
+
+| *Criterion*          | *Explanation*                                                    | *Example (Protected Works)*                     | *Example (Not Protected)*                                                 |
+|----------------------+------------------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------------------------|
+| *Genre*              | Any artistic or literary /category/ is covered.                  | Novels, songs, video games                      | Mere ideas (e.g., "a game about space travel")                            |
+| *Form of Expression* | Protection applies regardless of the /technique/ or medium used. | Paintings, films, handwritten manuscripts       | A concept not fixed in a tangible form                                    |
+| *Merit*              | Copyright does not judge artistic or aesthetic /value/.          | Violent video games, controversial performances | Simple copies with no originality                                         |
+| *Purpose*            | Even /commercial or functional/ works can be protected.          | Aesthetic bottle designs, architectural works   | Purely functional objects (e.g., a regular chair without artistic design) |
+*** Protection Criterion
+There is a list explicit by law:
+Books, brochures, speeches, lectures, sermons, legal pleadings, dramatic works, musical compositions, choreographic works, circus acts, pantomimes, films, audiovisual works, drawings, paintings, architecture, sculptures, engravings, lithographs, graphic works, typographical works, photographs, applied art, illustrations, maps, plans, sketches, scientific models, software, fashion and apparel designs
+
+But you may have protection in some other cases:
+1. Staging performance: *NO*
+2. Collections: series of works that are *not* inter-related are not works
+3. Language: Language is not copyrightable but in clockwork orange they /create/ a new language for the artistic work called /nasdat/. That language is indeed protected.
+4. Public documents: legal codes are not protected.
+5. Copies: Yes if created by hand because that is an impression of the artist personality.
+*** Special cases
+*Photography*
+You can just go and take the same picture. It is in general a gray area.
+*Titles*
+Titles of works can be protected if it is sufficiently original, there is unfair competition or there is a trademark law.
+*Derivative works*
+They are protected as long as is original work.
+** Authorship and ownership rights
+Ownership belongs to the author at the start. He may cede his rights.
+Authorship is not transferable.
+
+Only *natural persons* are capable of creation, but they must have some freedom (a worker does not have the architect rights).
+*** Presumptions
+As a [[*Legal Facts][legal fact]] (any form of relevant proof)  the authorship belongs to the person under whose name the work is published. Only for *natural persons*
+*Special case*
+The artist Dunand: technicians claiming that the work under the design of /Dunand/ was theirs. But since they had no leeway there was no originality, therefore no copyright.
+*** Author's status
+Even if the author is under a work contract there is the need to transfer the ownership rights.
+
+If there is a commission contract, you don't automatically own the Intellectual Rights. The author has the right to have intellectual rights over them.
+
+This does not apply for public officials.
+
+A *collective work* is a special type of creation where multiple contributors work under the direction of a publisher or organization. Unlike traditional co-authorship, the publisher or entity, not the individual contributors, holds the economic rights.
+*** Multiple authors
+**** Joint Authorship
+Multiple authors have collaborated on a common project.
+
+there are weird cases like an interview where the journalist is considered the author.
+
+1. all co-authors must *agree* before the work can be exploited
+**** Works under one name
+This applies when a single entity (person or organization) publishes a work under their name, even if multiple contributors participated.
+
+The work is considered a unified whole. The economical rights belong to the publisher. But each person holds rights over their own piece.
+**** Composite or derivative work
+A composite work incorporates a pre-existing work without the original author's collaboration.
+
+The adapter is considered the author, but the original author still holds some rights:
+1. right to authorize or refuse the adaptation
+2. right to compensation.
+
+This is because despite the author giving some rights away, he still has moral rights for his own creation.
+** Exclusive rights
+The author has exclusive rights over their work, which includes intellectual ownership and control over its use and distribution. This right applies even if the physical copy of the work is owned by someone else.
+
+| *Aspect*                            | *Key Rule*                                               | *Example*                                                            |
+|-------------------------------------+----------------------------------------------------------+----------------------------------------------------------------------|
+| *Tangible vs. Intangible Ownership* | Owning a physical copy ≠ owning copyright                | Owning a painting does not give the right to reproduce it            |
+| *Access to Original Work (L.111-3)* | Author can request access if refusal is abusive          | An author may need access to an unpublished manuscript               |
+| *Unfinished Works*                  | Protected if original and intended as a work             | A half-written novel still has copyright protection                  |
+| *Additional 25-Year Protection*     | Applies to works first published after copyright expires | A lost novel published posthumously gets 25 more years of protection |
+** Moral rights (extrapatrimonial)
+1. *Personal*
+   1. They are for the author and can't be transferred.
+   2. They are perpetual. They remain even after the author's death. (heirs inherit them)
+   3. /Exception/: In the case of collective works, moral rights may be attributed to the publisher.
+2. Inalienable ( can't be taken away ) and non-transferable
+   1. The author can't renounce or sell their moral rights.
+   2. Applies before and after creation. (before is published they are not to be sold)
+3. Can be used without limitations, except for heirs which may be accused of abusing them.
+*** Main rights
+1. Disclosure: he may decide when and how to disclose their work
+2. Attribution: He has to be credited for his work
+3. Integrity: The work can't be altered, distorted or misrepresented.
+4. Withdrawal: The author can retract their work, but must compensate.
+*** Disclosure
+The author has exclusive control over when, where, and how a work is made public.
+Applies to publication, public exhibition, theatrical performances, and other forms of public access.
+Not considered disclosure:
+- Manuscripts stored in an archive
+- Paintings in a gallery (if not explicitly displayed as part of an exhibition)
+*limit* If the author refuses to disclose after a commission, courts may intervene:
+*** Right of Integrity
+The work cannot be modified or distorted without the author’s consent.
+Caveat for adaptations:
+- The law allows adaptations, but they must respect the original work.
+- Example: Burennes case → Even strong criticism is allowed, but misrepresentation is not.
+*** Right of Withdrawal or Reconsideration
+The author can withdraw or modify their work even after publication, but must compensate the assignee for financial losses.
+If the author wants to re-exploit the work, the original assignee has priority under the original contract terms.
+** Patrimonial rights
+Patrimonial (economic) rights allow an author to exploit their work commercially and receive financial benefits. These rights include the right to reproduction, public performance, resale, and agreements for exploitation.
+
+The author has the exclusive right to:
+- Exploit their work in any form.
+- Obtain financial benefits from its use.
+The author can authorize or prohibit any use of the work.
+These rights are individual but can be managed by collective management organizations in some cases.
+*** Right of reproduction and public performance
+**** Reproduction
+Reproduction means fixing a work in a material form to allow indirect communication.
+Covers any method (printing, recording, digitization).
+EU definition: Applies to direct, indirect, temporary, or permanent copies, by any means.
+
+*Key Rules*
+- Even temporary digital copies (e.g., in a computer system) require authorization.
+- Partial reproduction is also protected unless an exception applies (e.g., right to quotation in L.122-5).
+- Court of Cassation (1987): Reproduction must be significant enough to convey the originality of the work.
+
+*Exceptions*
+- Educational and research institutions may be allowed to reproduce works.
+- The genre or medium does not matter—any form of reproduction is covered.
+- Adaptations (e.g., turning a novel into a movie) require separate authorization under the right of adaptation.
+**** Public performance
+Covers any form of communication to the public (live, broadcast, online).
+A performance is "public" even if the audience is only potential.
+New audience = new public performance
+
+Example: A private film screening does not count as public, but if made available online, it is.
+*** Exceptions to Exploitation Rights
+
+
+| **Exception**        | **Conditions**                                                    |
+|----------------------+-------------------------------------------------------------------|
+| **Private Copying**  | Only for **personal use**.                                        |
+|                      | Not valid for **software or databases**.                          |
+|                      | Only **one copy** allowed. The original must be legally acquired. |
+|----------------------+-------------------------------------------------------------------|
+| **Short Quotations** | Must be for **criticism, education, or scientific purposes**.     |
+|                      | Must respect the **author’s moral rights**.                       |
+|                      | The quotation must be **proportionate to the overall work**.      |
+*** Right of resale
+Originally a French concept, now partially adopted in the EU and US.
+Grants artists a percentage of resale prices for their works (e.g., paintings, sculptures).
+Rodin jurisprudence: The resale right applies to works made by the artist or limited edition copies made under their supervision.
+*** Agreements of Exploiting the work
+**** Written Consent
+Any agreement granting rights to exploit a work must be in writing.
+Applies to publishing, public performance, and audiovisual production.
+If not written, the contract is invalid.
+**** Interpretation of Contracts in Favor of the Author
+Rights must be explicitly listed (no broad or vague assignments).
+Contracts are always interpreted in favor of the author.
+**** Transfer of Rights (L.111-3, L.122-7)
+Owning a physical copy does not mean owning intellectual property rights.
+Transferring one right (e.g., reproduction) does not automatically transfer other rights (e.g., adaptation).
+Total transfer of rights must be limited to specific forms of exploitation.
+If no time period is specified, the contract is void.
+**** Audiovisual Adaptations Require a Separate Contract
+If an author grants adaptation rights, a separate document is required.
+The specific purpose and locations of use must be stated.
+These rules do not apply to sub-licensees (1ère civ, October 13, 1993).
+**** No Unforeseen Exploitation Without Additional Compensation (L.131-6)
+If an agreement allows new forms of exploitation (not foreseen at the time of signing), the author must receive additional profits.
+Global transfers for future works are prohibited.
+* Patents
+1. a title of property ( material ).
+2. temporal monopoly given by states.
+3. On a novel invention.
+4. In exchange of publishing it.
+** What is a patent?
+1. a title of property ( material ).
+2. temporal monopoly given by states.
+3. On a novel invention.
+4. In exchange of publishing it.
+
+The creation requires: filing + examination
+The *lifetime* tends to be 20 years
+It is Country dependant.
+*** IP toolbox
+patents-like (utility patent and utility model)
+design (Like usa)
+*** Different from trademark
+trademark has to be distinctive, does not have to be novel.
+
+the lifetime of a trademark can be renewed.
+
+The trademark is not technical, the patent is technical.
+** Patentability
+*** Minimum Criteria
+1. It has to be an invention (Technical)
+2. Industrial application, (some fields are excluded)
+3. Novelty (different from prior art) /all that was publicly disclosed before filing date - world wide/
+4. Inventive step (non obvious according to prior art), for someone /skilled in the art/ but not creative. /Sufficiently novel/
+
+State of the art: Is *everything* that was available before the day of publishing (even if nobody visited or read that data).
+
+1. Criteria 1+2: Invention + industrial application
+2. Criteria 3: Novelty
+3. Criteria 4: Inventive step. /sufficiently novel/
+
+*Exceptions*:
+1. Biological processes for genetic stuff, or human modification/ cloning.
+2. Software
+*** Kinds of inventions
+1. New solution to a known technical problem
+2. Selecting an optimal solution for a problem, within a wide range of known solutions.
+3. Identifying a new technical effect of a known method device or system.
+4. Formulating a new technical problem.
+*** Software invention
+You can patent things in a flow chart level as *electronic data processing*,
+Then when you write the code you have author rights.
+*** Who's property?
+**** Moral rights
+stays to the inventor, to be named.
+**** Patrimonial rights
+initially, inventor. You can transfer them to the employee if you are not affiliated. If your contract specifies it you may automatically transfer your rights to the company.
+** Rights conferred
+1. right to forbid
+2. why? initiative money in exchange of publishing.
+   1. Exchange of money for information.
+   2. limited right: criteria, exceptions, lifetime
+   3. a disputed right: commercial freedom, open software
+3. Limits protection
+   1. Limits on products: only once
+   2. limits on monopoly: private use. experimentation on the product
+   3. limits from general interest
+
+/mandatory/ license by state: eg. shortage, too expensive
+** What goes into a patent
+1. background /state of the art/
+2. brief summary /generic exposition/
+3. detailed description /exemplary embodiment/
+4. claims
+5. drawings
+6. annexes
+** Enforcing
+When you find someone infringing your patent you must:
+1. Detect infringing activities
+2. Notifying
+3. Judicial action
+   1. Infringement action
+   2. Defend the patent
+4. Country dependand
+5. Stakes (benefits) / risks (invalidation)
+* Keywords that are weird
+1. Synallagmatic: is a contract in which each party to the contract is bound to provide something to the other party
+
+#  LocalWords:  offeror
