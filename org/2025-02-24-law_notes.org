@@ -2,7 +2,6 @@
 #+author: Gabriel Lozano
 #+startup: logdrawer
 #+startup: preview
-#+OPTIONS: toc:nil num:nil
 #+BEGIN_EXPORT html
 ---
 layout: post
@@ -11,7 +10,7 @@ permalink: /:title/
 tags: [notes, bdma]
 ---
 #+END_EXPORT
-
+#+OPTIONS: toc:t num:3
 
 * Law and the Rule of Law
 ** Law
