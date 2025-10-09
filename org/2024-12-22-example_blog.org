@@ -2,7 +2,6 @@
 #+author: Gabriel Lozano
 #+startup: logdrawer
 #+startup: preview
-#+OPTIONS: toc:t num:1
 #+BEGIN_EXPORT html
 ---
 layout: post
@@ -11,6 +10,7 @@ permalink: /:title/
 tags: [test, another test, databases]
 ---
 #+END_EXPORT
+#+OPTIONS: toc:t num:1
 
 * Limitations
 1. Only work for a small amount of joins.
