@@ -1,0 +1,276 @@
+#+title: Writing Class Inria
+
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Scientific workshop INRIA"
+permalink: /:title/
+tags: [workshop, scientific-writing]
+---
+#+END_EXPORT
+* Workshop people
+- Tunisian: Dhia: change point detection in time series.
+- Brazilian: Wellington: predict number of resources.
+- Algerian: Nazim
+- Colombian: Me
+- Senegal: Ben- Dia again: PDE
+- Cameroon: Joel: LLM
+- China: Minrei - (like min max - xray): theoretical computer scientist
+- Algeria 2: Abdelgani: proof assistance
+- Polish: Przemek
+
+
+where does the distribution change? for dhia.
+** Minrei
+p=np/ theoretical computer science
+second auction.
+* Workshop
+** Resources
+- the craft of scientific writing
+- communicating in science
+- usage and abusage- a guide to good english
+** AI in scientific writing
+it's ok to use it for editing but not for ideas.
+** Issues
+- flow
+- clarity
+** Advice
+1. Reading more -> writing better.
+2. Do as much writing as possible. Writting is done, not born with.
+3. Learn from the best.
+*** Sign posting
+give indications to the reader.
+*** Density
+Keep it low density
+* Critique to documents
+** 26
+Reading text in natural images has focused again the attention of many researchers during the last few years due to the increasing availability of cheap image-capturing devices in low-cost products like mobile phones.
+
+1. Very long
+2. again feels out of place.
+3. What is **natural** images?
+
+Therefore, as text can be found on any environment, the applicability of text-reading systems is really extensive.
+1. Question: in or on?
+2. therefore --> is not a conclusion of the previous sentence.
+3. really extensive --> informal
+
+
+For this purpose, we present in this paper a robust method to read text in natural images.
+1. OCR?
+2. we present in this paper--> a bit informal.
+   1. in this paper we present --> bit more elegant.
+
+
+It is composed of two main separated stages.
+1. first location, second extraction (sign posting/intro).
+2. Clarity: "the method is composed..."
+
+
+Firstly, text is located in the image using a set of simple and fast-to-compute features highly discriminative between character and non-character objects.
+1. not a good connection in "fast-to-compute features highly discriminative between character"
+2. "highly" --> sound pretentious without a proof.
+
+They are based on geometric and gradient properties.
+1. Who is they? features? the first stage? objects? characters?
+
+The second part of the system carries out the recognition of the previously detected text.
+1. the second part of the algorithm -> nitpicking
+
+It uses gradient features to recognize single characters and Dynamic Programming (DP) to correct misspelled words.
+1. whose it?
+
+Experimental results obtained with different challenging datasets show that the proposed system exceeds state-of-the-art performance, both in terms of localization and recognition.
+1. performance or performances (?)
+2. Why challenging? not defined.
+** 27
+** 28
+Parallel computing plays a major role in almost all the fields from research to major concern problem solving purposes.
+1. "major concern problem solving purposes" -> what is this?
+1. research is too broad
+
+Many researches are till now focusing towards the area of parallel processing.
+1.
+
+Nowadays it extends its usage towards the end user application such as GPU as well as multi-core processor development.
+
+The bandwidth measurement is essential for resource management and for studying the various performance factors of the existing super computer systems which will be helpful for better system utilization since super computers are very few and their resources should be properly utilized.
+
+In this paper the real workload trace of one of the super computers LANL is taken and shown how the bandwidth is estimated with the given parameters.
+* Phrasal verbs
+just a quick reminder.
+* Corrections
+* Putting pen to paper
+** method
+1. put all my ideas in a list
+2. do categories.
+3. Do a mind map or a sankey diagram
+* Example
+Life in PhD
+** Living conditions
+*** expensive
+*** entertaining
+*** lively?
+not the city of lights. Everything closes early
+*** diverse
+*** architecture
+*** food
+*** public transport
+**** metro/train
+**** sncf to the rest of france and europe
+** opportunities
+*** education
+*** work
+** important city
+** Overly visited by tourists
+* Paragraphs
+** Intro
+Is Paris worth the price and the overly-crowded streets?
+** living conditions
+Paris is well connected, in the middle of the blue banana
+It is lively, but closes quite early.
+The architecture is beautiful and full of museums.
+the gastronomical offer is varied
+** Opportunities
+People don't come to paris just because it is pretty.
+Companies only offer jobs here.
+most well ranked universities from france are in the ile the france region
+** Conclusion
+Living in paris is as worth it, as the opportunity given to do so.
+Is not the city of lights, but is definitely fun.
+* Work
+Paris is one of the most expensive cities in the world to live in.
+Is it really worth the price?
+While it is famously known for its great gastronomy, beautiful architecture, and impressive museums,
+the residents of the city are constantly struggling with the downsides of the french capital.
+With rent prices raising, tourism overflowing, and a concentration of job offers unlike anywhere in France life in Paris becomes about trade-offs.
+
+People can't afford to live near their work.
+Parisians have normalized having a one hour commute time to work.
+While the streets are filled with tourists,
+the residents spend their life in the unreliable trains and metros that connect the suburbs with the city center.
+The traditional restaurants are continuously replaced by low-quality and expensive ones.
+Thus, the city of 3 million people slowly becomes the home of nobody.
+
+Living in Paris is, for many people, the only choice.
+While no worker can easily afford rent in Paris, companies can.
+With 30% of the French GDP coming from the Ile de France region,
+it is common to have Paris as the only choice for a professional career.
+The problem extends to students as well, with most highly ranked universities being in the Ile de France region.
+
+Living in Paris is as worth it as the opportunity given to do so.
+While more affordable or better paying cities exist,
+Paris sits in an equilibrium of opportunity and cost.
+Being one of the most populated regions in Europe,
+the cultural, and gastronomical offers will be hardly matched.
+Finally, the city of lights shines upon those blessed enough to find a worthy trade-off.
+* Punctuation
+** Dots .
+Are used to divide up paragraphs, otherwise reading can become very tiresome.
+Assume an average length of seventeen words,
+though be sure to vary sentence length for variety.
+** Commas ,
+Facilitate reading and not trip up the reader.
+It must neither be used too sparingly, nor too profusely.
+** Colons :
+Are used for definitions and introduce lists, but do not break statements.
+
+examples:
+*** Introducing a list
+Paris demands three things from its residents: patience, money, and a tolerance for chaos.
+
+*** Introducing an explanation or elaboration
+The city feels both irresistible and exhausting: it offers opportunity, but at a steep emotional cost.
+
+*** Introducing a quote
+She once said it best: “Paris forces you to choose what you’re willing to sacrifice.”
+
+*** Creating emphasis
+For many commuters, the truth is simple: Paris is a place you endure to be close to your dreams.
+** Semicolon ;
+ Has a specific purpose: to connect two sentences closely linked in thought.
+ E.g. “There is no cure for Alzheimer's disease;
+ it brings dementia and slow death to thousands of Americans every year.”
+** More
+not explained.
+
+
+
+
+* Guidelines to good scientific writing
+** objectives
+*** precision
+*RIGHT WORDS*
+about choosing the right words.
+Don't hesitate to repeat a word if it's the right one.
+
+*Specific*
+is about _anchoring_. Being clear, with words instead of vague.
+problems--> high winds i.e.
+corrective measures them --> put them horizontally.
+
+
+*avoid over-specification*
+don't give THAT much detail.
+*** clarity
+*Keep it simple*
+not too complex. Avoid it.
+
+*avoid vagueness*
+avoid vagueness, pretentious, double-hedging, homonyms.
+
+*pronouns*
+what does it refer to? avoid it
+
+*explain equations*
+they are already hard enough.
+
+*punctuation*
+[[*Punctuation][Punctuation]]
+
+*** familiarity
+*Define unfamiliar words*
+
+*avoid jargon*
+Don't overload paragraphs with abbreviations.
+
+*use written/numerical analogies*
+*** conciseness
+eliminate redundancies and make every word count.
+*** fluidity
+1. vary sentence structure. For example you can start with:
+   1. verb
+   2. while
+   3. subject
+   4. infitive
+   5. preposition
+   6. question
+2. vary paragraph
+3. vary sentence length
+4. eliminate discontinuities. Use:
+   1. also
+   2. and
+   3. but
+   4. finally
+   5. however
+   6. moreover
+
+
+*** forthrightness
+nouns provide anchors
+
+use active voice, less verbose.
+
+avoid pretentious words
+
+avoid arrogance, things are not obvious.
+*** TODO: imagery
+** preparation
+1. make notes
+2. write ideas
+3. speak about your research
+** Execution
+1. write draft and the polish
+2. make sure to get words first and the polish.
+3. use someone else to re-read.
+4. change your phisical setting.
