@@ -1,5 +1,0 @@
-#+title: 2025 10 09 Query Generation
-
-
-
-file:images/pipeline_query_generation.png
