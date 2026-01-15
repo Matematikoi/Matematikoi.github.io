@@ -1,0 +1,22 @@
+#+title: Starting my PhD - Joining CEDAR
+#+author: Gabriel Lozano
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Starting my PhD"
+subtitle: "Joining the CEDAR team at Ecole Polytechnique-Paris"
+permalink: /:title/
+tags: [phd,databases]
+---
+#+END_EXPORT
+
+I am starting my PhD on "Large-scale query plan representation with data
+augmentation and query optimization", in the [[https://team.inria.fr/cedar/][CEDAR]] team, under the
+supervision of [[https://www.lix.polytechnique.fr/~yanlei.diao/][Yanlei Diao]] and
+[[https://scholar.google.com/citations?user=_QpalLwAAAAJ&hl=en][Guillaume Lachaud]]. I will be working in the [[https://www.lix.polytechnique.fr/][Ecole Polytechnique Informatics Team]]
+in Paris.
+
+I am very excited of this new chapter in my life after completing my Masters
+degree in Big Data Management and Analytics.

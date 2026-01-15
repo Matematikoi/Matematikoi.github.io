@@ -1,0 +1,24 @@
+#+title: New VLDB paper published
+#+author: Gabriel Lozano
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "New VLDB paper"
+subtitle: "Graph Transformers for Query Plan Representation: Potentials and Challenges"
+permalink: /:title/
+tags: [phd, databases, vldb]
+---
+#+END_EXPORT
+
+
+
+
+We have succesfully published our paper "Graph Transformers for
+Query Plan Representation: Potentials and Challenges",
+you can check it out on the VLDB (A* conference) [[https://www.vldb.org/pvldb/volumes/18/paper/Graph%20Transformers%20for%20Query%20Plan%20Representation%3A%20Potentials%20and%20Challenges][proceedings]].
+
+
+
+
