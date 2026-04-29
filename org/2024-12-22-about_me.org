@@ -9,7 +9,7 @@ layout: page
 title: "About Me"
 subtitle: "Gabriel Lozano"
 permalink: /:title/
-tags: [test, another test, databases]
+tags: [databases]
 ---
 #+END_EXPORT
 

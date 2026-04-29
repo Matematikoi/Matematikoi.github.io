@@ -1,0 +1,162 @@
+#+title: About Me
+#+author: Gabriel Lozano
+#+startup: logdrawer
+#+startup: preview
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: page
+title: "BDA summer school / Corsica 2026"
+subtitle: "Personal notes"
+permalink: /:title/
+tags: [databases,BDA]
+---
+#+END_EXPORT
+
+* Intro
+** Premises explanation
+1. don't burn anything.
+2. jellyfish in the beach of scientist.
+3. don't forget the mug anywhere.
+** the site
+https://schools.dvrc.fr/MDD26/index.php
+** meals
+fr people. you gotta prove you are vegetarian.
+* scientific research
+to get paper accepted -> talk to your advisor.
+** support
+slides:
+https://schools.dvrc.fr/MDD26/workshops/How_To_XP.pdf
+** Case study
+*** Feasibility Study
+is it possible to solve a specific kind of problem?
+lessons learned. 
+
+example:
+
+CAP: any database can only be two of thre following three properties.
+
+C: consistency
+A: availability
+P: partition tolerance
+*** Pilot case
+The idea has proven value. From the lessons learned there is a set of
+"limitations"
+
+Cassandra: can handle availability and consistency.
+*** Comparative Study
+Here are four/five techniques. which one is better?
+
+What are the differences? what are the tradeoffs?
+*** Overvational study
+what are the effects of over-tourism?
+*** Literature survey
+What is known? What questions are still open?
+
+Comprenhensive: *precise research question*
+*** Formal model.
+first normal form, second normal form . ( databases)
+*** How to do experiments
+1. literature review
+2. specify the case study:
+   1. Define objectives/hypotheses
+   2. Specify the population
+   3. Evaluate the testing feasibility
+3. Define research procedure:
+   - treatment
+   - sampling
+   - measurements choice
+   - units of observation
+   - border effects
+   - expected results
+   - outline of analyses to do
+   - measuring instruments
+*** ELNs
+Electronic laboratory notebook
+1. elabFTW
+2. 
+* Data reduction
+** motivation
+"it never hurts to have more data" -> previous motto.
+
+now days 150 ZB data -> 10^21 bytes.
+
+dark data -> data that has to be kept for some reason, but is never used.
+
+how to deal with over storage -> reduce. 
+** questions
+*** what makes data important
+*** what is the cost of disposing a piece of data
+*** which part of data is important
+*** when can we reduce the data?
+** Data reduction:
+Given a dataset D
+A set of contraints C
+
+What to retain/dispose
+how much to retain/dispose
+when to retain/dispose
+
+
+Identify D' with D' subset of D. Such that D' staisfies C and maximises some
+utility function.
+
+Some terms:
+- Data rotting
+- data amnesia
+- data reduction
+*** methods
+**** Selective storage
+***** statistical summarization
+For example statistical methods: mean, std, etc..
+
+Distributions like histograms.
+***** Sketches
+compact data summaries or probabilistic data structures for efficient
+computation.
+
+Give up some accuracy for significant efficiency.
+
+1. count-min sketch
+2. hyperlog
+***** Coreset-selection
+A smaller subset that for a given function it approximates the function on the
+full dataset.
+***** Wavelet (lossy disposal)
+representation in compact hierarchical maner.
+***** View maintenance
+**** Compression
+you take another representation of the same dataset. The end goal is to be able
+to recover the data, not throw it away.
+***** Syntactic
+****** Patern-based
+instead of storing a pattern you store a representation for the pattern itself
+
+For example:
+1. Huffman encoding.
+****** Dimensionality reduction
+represent as a good set of some linear representation.
+***** Semantic compression
+**** remove redundancy
+***** Schema deduplication
+***** instance deduplication
+identifying that two different structures in the same database correspond to the
+same data point.
+**** deletion
+***** distribution based
+****** sampling
+how to get some points from the dataset in such a way that at the end you can
+represent the data as accurate as possible.
+***** property based
+data quality.
+
+for example: I want to remove the parts of the dataset that has biases. 
+***** rotting and amnesia
+* Data Provenance
+History and lineage of data in a computational workflow.
+** relational tables
+rings and whatever
+** knowledge graphs
+* Explainable AI
+* Reasoning with LLM
+Akhil arora -> epfl
