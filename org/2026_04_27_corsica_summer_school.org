@@ -176,5 +176,9 @@ continual learning
 murphy for fine tuning llms.
 * Ethics in AI
 * Vector indexing
-A naive similarity search is O(n d) where n is the number of elements and d is
+** Nearest neighbour
+A naive similarity search is $O(n d)$ where n is the number of elements and d is
 the dimension of the vectors.
+
+approximate methods are "good enough".
+
