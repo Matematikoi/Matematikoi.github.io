@@ -5,7 +5,7 @@
 #+OPTIONS: toc:nil num:nil
 #+BEGIN_EXPORT html
 ---
-layout: page
+layout: post
 title: "BDA summer school / Corsica 2026"
 subtitle: "Personal notes"
 permalink: /:title/
@@ -182,3 +182,6 @@ the dimension of the vectors.
 
 approximate methods are "good enough".
 
+
+
+"what about maintenance??????"
