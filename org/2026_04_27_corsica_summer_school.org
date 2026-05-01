@@ -160,3 +160,21 @@ rings and whatever
 * Explainable AI
 * Reasoning with LLM
 Akhil arora -> epfl
+** motivation
+1. conversational assitants
+2. answer engines
+3. web navigation agents
+4. playing games
+5. coding assistants
+
+
+https://github.com/au-clan/cachesaver
+* LLM coding agents
+Behrooz Omidvar-Tehrani
+** human-ai collaboration
+continual learning
+murphy for fine tuning llms.
+* Ethics in AI
+* Vector indexing
+A naive similarity search is O(n d) where n is the number of elements and d is
+the dimension of the vectors.
